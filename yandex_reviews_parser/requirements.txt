@@ -1,0 +1,4 @@
+selenium==4.25.0
+beautifulsoup4==4.12.3
+psycopg2-binary==2.9.9
+ipython==8.18.1
